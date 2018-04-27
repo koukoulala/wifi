@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- utf-8 -*-
+#encoding: utf-8
 import pywifi
 import time  #时间
 from pywifi import const  #引用一些定义
