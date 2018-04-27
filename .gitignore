@@ -1,0 +1,5 @@
+*.txt
+*.ini
+.DS_Store
+*/.idea/
+.idea/
